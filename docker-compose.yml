@@ -9,5 +9,5 @@ services:
     volumes:
       - ./data:/var/lib/rabbitmq/
     environment: 
-      - RABBITMQ_DEFAULT_USER=klenioleite
-      - RABBITMQ_DEFAULT_PASS=151213@2024Gmc
+      - RABBITMQ_DEFAULT_USER=seu_usuario_aqui
+      - RABBITMQ_DEFAULT_PASS=sua_senha_aqui
