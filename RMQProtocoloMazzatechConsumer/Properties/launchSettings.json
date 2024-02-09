@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "RMQProtocoloMazzatech": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  },
+    "ApiSettings": {
+      "ApiUrlGet": "http://localhost:5077/api/v1/DbErrorLogger/GetDbErrorLogger",
+      "ApiUrlPost": "http://localhost:5077/api/v1/DbErrorLogger/PostDbErrorLogger"
+    }
+}

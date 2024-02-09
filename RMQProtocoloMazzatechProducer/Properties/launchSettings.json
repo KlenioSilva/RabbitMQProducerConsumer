@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RMQProtocoloMazzatech": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

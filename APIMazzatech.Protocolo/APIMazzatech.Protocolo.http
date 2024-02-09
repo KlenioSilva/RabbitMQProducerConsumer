@@ -1,0 +1,6 @@
+@APIMazzatech.Protocolo_HostAddress = http://localhost:5077
+
+GET {{APIMazzatech.Protocolo_HostAddress}}/protocolo/
+Accept: application/json
+
+###

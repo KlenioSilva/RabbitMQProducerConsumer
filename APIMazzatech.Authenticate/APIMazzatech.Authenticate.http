@@ -1,0 +1,6 @@
+@APIMazzatech.Authenticate_HostAddress = http://localhost:5109
+
+GET {{APIMazzatech.Authenticate_HostAddress}}/Authenticate/
+Accept: application/json
+
+###
